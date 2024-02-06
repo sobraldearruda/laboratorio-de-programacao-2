@@ -1,4 +1,4 @@
-# Laboratório de Programacao 2
+# Laboratório de Programação 2
 
 Este repositório reúne os protótipos de projetos em **Java** desenvolvidos no componente curricular **"Laboratório de Programação 2"**, da Universidade Federal de Campina Grande (UFCG). Alguns desses protótipos também utilizam o **JUnit** para testes unitários.
 
